@@ -1,0 +1,36 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-back-button defaultHref="tabs/vender"></ion-back-button>  
+    </ion-buttons>
+    <ion-title>
+      Alterar Produto
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+    <br> <br>
+    <h1>Falta upload de imagens</h1>
+    <form>
+      <ion-item>
+          <ion-input type="descricao" placeholder="Descrição"></ion-input>
+      </ion-item>
+      <ion-item>
+          <ion-input type="float" placeholder="Valor R$"></ion-input>
+      </ion-item>
+      <ion-item>
+      <ion-label>Tipo</ion-label>
+        <ion-select interface="popover">
+            <ion-select-option value="nes">Animal</ion-select-option>
+            <ion-select-option value="n64">Vegetal</ion-select-option>
+            <ion-select-option value="ps">Ferramentas</ion-select-option>
+            <ion-select-option value="genesis">Outros</ion-select-option>
+        </ion-select>
+      </ion-item>
+        
+      <ion-button color="primary" shape="round" expand="full">
+          ALTERAR
+      </ion-button>
+    </form>
+  </ion-content>

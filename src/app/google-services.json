@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "477022749984",
+    "firebase_url": "https://agrox-fd174.firebaseio.com",
+    "project_id": "agrox-fd174",
+    "storage_bucket": "agrox-fd174.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477022749984:android:e68699f6539cb2af504345",
+        "android_client_info": {
+          "package_name": "agrox.nds18"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477022749984-rhc1ecmnp12la7e6tumbvduocdnhou4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChihvmQeQOJXJouAHVBrLXvKoIcl3nt6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477022749984-rhc1ecmnp12la7e6tumbvduocdnhou4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
